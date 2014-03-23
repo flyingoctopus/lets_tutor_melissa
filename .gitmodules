@@ -1,0 +1,3 @@
+[submodule "contact_repl"]
+	path = contact_repl
+	url = git@github.com:flyingoctopus/contact_repl.git
